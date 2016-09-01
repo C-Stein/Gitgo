@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# This script clears the terminal, displays a greeting and gives information
-
 #in order to run this script from any directory without typing out the full path
 # sudo ln -s /full/path/to/file/gitgo.sh /usr/local/sbin/gitgo
 
